@@ -17,7 +17,7 @@ def main():
     # Check printed timestamp and write to csv to check as well, in both cases it should follow the stand format: 2017-08-22 13:25:28.875
     pdf.to_csv("C:\\Users\\cmolina.ITG.000\\Downloads\\ITG\\REF-formatted.csv", sep=',', encoding='utf-8', index=False)
 
-
+# jajjaja modifique la cosaaaa
 if __name__ == '__main__':
     with open("C:\\Users\\cmolina.ITG.000\\Downloads\\ITG\\REF-formatted.csv") as f:
         print(f.readline())
