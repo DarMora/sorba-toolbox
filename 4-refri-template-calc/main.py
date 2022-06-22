@@ -262,7 +262,7 @@ if __name__ == '__main__':
 
 
 
-    #result = [sum_x_y(x, y) for x, y in zip(pdf['REF_2L.LI1.PV_C_TI'], pdf['REF_2L.LI1.PV_C_PI'])]
+    #result = [sum_x_y(x, y) for x, y in zip(pdf['REF_2L.LI1.PV_C_TI'], pdf['REF_2L.LI1.PV_C_PI'])]  test
 
 
     # for row in pdf.iterrows():
